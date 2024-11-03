@@ -1,0 +1,13 @@
+/*Estilos barra de navegación*/
+#logo{
+  border-radius: 55%;
+  height: 50px;
+}
+svg{
+  margin-right: 6px;
+}
+
+h3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+}
